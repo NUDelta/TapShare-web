@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "GetLocation": {
+            "applicationId": "zkStIiBgvGoBkJrSUd2tTrgO4wYG8hPdvhyeCxj2", 
+            "masterKey": "fdbKGKAoyoQcKg5H8b9vYkqbX3ed7j30klBNGqQf"
+        }, 
+        "_default": {
+            "link": "GetLocation"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
